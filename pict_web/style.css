@@ -1,0 +1,50 @@
+#links{
+    text-align: right;
+    padding-right: 100px;
+    text-decoration: none;
+    padding-top: 15px;
+}
+
+#header{
+    background-color: blue;
+    height: 50px;
+}
+
+.nameandlogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: white;
+}
+
+.nameandlogo .name{
+    
+    /* height: 150px; */
+    
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    
+}
+
+.nameandlogo .logo .image{
+    
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    /* text-align: center; */
+}
+
+.menu{
+    background-color: blue;
+    height: 50px;
+}
+
+#drop
+{
+    padding-left: 100px;
+    padding-top: 10px;
+}
